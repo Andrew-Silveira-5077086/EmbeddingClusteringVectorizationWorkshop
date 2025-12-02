@@ -4,10 +4,13 @@
 ### Andrew Silveira - 5077086
 ### Aiswarya Thekkuveettil Thazhath - 8993970
 
-### Dataset Description 
-
+### Dataset Source and License
+* Gutenberg Corpus
 * The dataset Gutenberg Corpus is a collection of english texts from a  classic literature.
-* The dataset is freely available
+* The dataset is freely available.
+NLTK includes a small selection of texts from the Project Gutenberg electronic text archive, which contains some 25,000 free electronic books
+
+https://www.nltk.org/book/ch02.html
 
 
 

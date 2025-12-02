@@ -1,4 +1,5 @@
 .venv
 glove.6B.50d/
 glove.6B.50d/glove.6B.50d.txt
+glove.6B.50d/glove.6B.50d.word2vec.txt
 nltk_data/
